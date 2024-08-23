@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "title": "Naan Un",
+        "artist": "Sid Sriram",
+        "album": "24"
+    },
+    {
+        "id": 2,
+        "title": "Why This Kolaveri Di",
+        "artist": "Dhanush",
+        "album": "3"
+    },
+    {
+        "id": 3,
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "album": "Divide"
+    },
+    {
+        "id": 4,
+        "title": "Roar",
+        "artist": "Katy Perry",
+        "album": "Prism"
+    },
+    {
+        "id": 5,
+        "title": "Mannipaaya",
+        "artist": "A. R. Rahman, Shreya Ghoshal",
+        "album": "Vinnaithaandi Varuvaayaa"
+    },
+    {
+        "id": 6,
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "album": "21"
+    },
+    {
+        "id": 7,
+        "title": "Vaseegara",
+        "artist": "Bombay Jayashri",
+        "album": "Minnale"
+    },
+    {
+        "id": 8,
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "album": "21"
+    },
+    {
+        "id": 9,
+        "title": "Ennodu Nee Irundhaal",
+        "artist": "Sid Sriram",
+        "album": "I"
+    },
+    {
+        "id": 10,
+        "title": "Thinking Out Loud",
+        "artist": "Ed Sheeran",
+        "album": "X"
+    },
+    {
+        "id": 11,
+        "title": "Munbe Vaa",
+        "artist": "Shreya Ghoshal, Naresh Iyer",
+        "album": "Sillunu Oru Kaadhal"
+    },
+    {
+        "id": 12,
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "album": "After Hours"
+    },
+    {
+        "id": 13,
+        "title": "Thalli Pogathey",
+        "artist": "Sid Sriram",
+        "album": "Achcham Yenbadhu Madamaiyada"
+    },
+    {
+        "id": 14,
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "album": "When We All Fall Asleep, Where Do We Go?"
+    },
+    {
+        "id": 15,
+        "title": "Aalaporan Thamizhan",
+        "artist": "Karthik",
+        "album": "Mersal"
+    },
+    {
+        "id": 16,
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "album": "Future Nostalgia"
+    },
+    {
+        "id": 17,
+        "title": "Pachchai Nirame",
+        "artist": "Hariharan, Clinton Cerejo",
+        "album": "Alaipayuthey"
+    },
+    {
+        "id": 18,
+        "title": "Hello",
+        "artist": "Adele",
+        "album": "25"
+    },
+    {
+        "id": 19,
+        "title": "Thangamey",
+        "artist": "Anirudh Ravichander",
+        "album": "Naanum Rowdy Dhaan"
+    },
+    {
+        "id": 20,
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson, Bruno Mars",
+        "album": "Uptown Special"
+    },
+    {
+        "id": 21,
+        "title": "Rowdy Baby",
+        "artist": "Dhanush, Dhee",
+        "album": "Maari 2"
+    },
+    {
+        "id": 22,
+        "title": "Can't Stop the Feeling!",
+        "artist": "Justin Timberlake",
+        "album": "Trolls (Original Motion Picture Soundtrack)"
+    },
+    {
+        "id": 23,
+        "title": "Yennai Arindhaal",
+        "artist": "Harris Jayaraj, Sid Sriram",
+        "album": "Yennai Arindhaal"
+    },
+    {
+        "id": 24,
+        "title": "Senorita",
+        "artist": "Shawn Mendes, Camila Cabello",
+        "album": "Shawn Mendes"
+    },
+    {
+        "id": 25,
+        "title": "Anbe Peranbe",
+        "artist": "Sid Sriram",
+        "album": "NGK"
+    },
+    {
+        "id": 26,
+        "title": "Havana",
+        "artist": "Camila Cabello",
+        "album": "Camila"
+    },
+    {
+        "id": 27,
+        "title": "Kannamma",
+        "artist": "Inno Genga",
+        "album": "Imaikkaa Nodigal"
+    },
+    {
+        "id": 28,
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "album": "8 Mile"
+    },
+    {
+        "id": 29,
+        "title": "Verithanam",
+        "artist": "Vijay",
+        "album": "Bigil"
+    },
+    {
+        "id": 30,
+        "title": "Shallow",
+        "artist": "Lady Gaga, Bradley Cooper",
+        "album": "A Star Is Born Soundtrack"
+    },
+    {
+        "id": 31,
+        "title": "Singappenney",
+        "artist": "A. R. Rahman, Shashaa Tirupati",
+        "album": "Bigil"
+    },
+    {
+        "id": 32,
+        "title": "We Will Rock You",
+        "artist": "Queen",
+        "album": "News of the World"
+    },
+    {
+        "id": 33,
+        "title": "Kaattu Payale",
+        "artist": "Dhee",
+        "album": "Soorarai Pottru"
+    },
+    {
+        "id": 34,
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera"
+    },
+    {
+        "id": 35,
+        "title": "Maruvaarthai",
+        "artist": "Sid Sriram",
+        "album": "Enai Noki Paayum Thota"
+    },
+    {
+        "id": 36,
+        "title": "Viva La Vida",
+        "artist": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends"
+    },
+    {
+        "id": 37,
+        "title": "Uyire",
+        "artist": "Hariharan, Sadhana Sargam",
+        "album": "Bombay"
+    },
+    {
+        "id": 38,
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "album": "Thriller"
+    },
+    {
+        "id": 39,
+        "title": "Petta Paraak",
+        "artist": "Anirudh Ravichander",
+        "album": "Petta"
+    },
+    {
+        "id": 40,
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "album": "Thriller"
+    },
+    {
+        "id": 41,
+        "title": "Vaathi Coming",
+        "artist": "Anirudh Ravichander, Gana Balachandar",
+        "album": "Master"
+    },
+    {
+        "id": 42,
+        "title": "Bad Romance",
+        "artist": "Lady Gaga",
+        "album": "The Fame Monster"
+    },
+    {
+        "id": 43,
+        "title": "Inkem Inkem",
+        "artist": "Sid Sriram",
+        "album": "Geetha Govindam"
+    },
+    {
+        "id": 44,
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "album": "Help!"
+    },
+    {
+        "id": 45,
+        "title": "Vizhiyil",
+        "artist": "Bombay Jayashri, Sriram Parthasarathy",
+        "album": "Kireedam"
+    },
+    {
+        "id": 46,
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "album": "Let It Be"
+    },
+    {
+        "id": 47,
+        "title": "Kannana Kanne",
+        "artist": "Sid Sriram",
+        "album": "Viswasam"
+    },
+    {
+        "id": 48,
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "album": "Hotel California"
+    },
+    {
+        "id": 49,
+        "title": "Kadhal Sadugudu",
+        "artist": "S.P. Charan",
+        "album": "Alaipayuthey"
+    },
+    {
+        "id": 50,
+        "title": "Smells Like Teen Spirit",
+        "artist": "Anirudh Ravichander, Gana Balachandar",
+        "album": "Nirvana"
+    }
+]
